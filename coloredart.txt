@@ -1,0 +1,83 @@
+
+
+<html>
+  <head>
+    <title>Colored Drawings</title>
+  </head>
+
+<style>
+body {
+  background-color: #E6E6FA;
+}
+</style>
+
+  <style>
+.container {
+  display: flex;
+  align-items: center; 
+ padding-left: 10px;
+}
+img{
+  margin-left: 15px ;
+  margin-right: 15px;
+}
+  </style>
+  <body>
+<H1>Mga Butang</h1>
+    <div class="container">
+      <div class="image"> <img src="file:///F:/Illustrations/Colored-1/web-mga%20butang/bag-1.png" height="350px"/> </div> 
+      <div class="image"> <img src="file:///F:/Illustrations/Colored-1/web-mga%20butang/balay.png" height="350px"/> </div> 
+     <div class="image"> <img src="file:///F:/Illustrations/Colored-1/web-mga%20butang/balde.png" height="350px"/> </div> 
+     <div class="image"> <img src="file:///F:/Illustrations/Colored-1/web-mga%20butang/basket.png" height="350px"/> </div> 
+      <div class="image"> <img src="file:///F:/Illustrations/Colored-1/web-mga%20butang/sinina.png" height="350px"/> </div> 
+     </div>
+
+<H1>Mga Hayop</h1>
+    <div class="container">
+      <div class="image"> <img src="file:///F:/Illustrations/Colored-1/mga%20hyop/iro.png" height="350px"/> </div> 
+      <div class="image"> <img src="file:///F:/Illustrations/Colored-1/mga%20hyop/kanding.png" height="350px"/> </div> 
+     <div class="image"> <img src="file:///F:/Illustrations/Colored-1/mga%20hyop/langgam.png" height="350px"/> </div> 
+     <div class="image"> <img src="file:///F:/Illustrations/Colored-1/mga%20hyop/manok.png" height="350px"/> </div> 
+      <div class="image"> <img src="file:///F:/Illustrations/Colored-1/mga%20hyop/pato.png" height="350px"/> </div> 
+     </div>
+
+<H1>Mga Lugar</h1>
+    <div class="container">
+      <div class="image"> <img src="file:///F:/Illustrations/Colored-1/mga%20lugar/eskwelahan.png" height="350px"/> </div> 
+      <div class="image"> <img src="file:///F:/Illustrations/Colored-1/mga%20lugar/kubo.png" height="350px"/> </div> 
+     <div class="image"> <img src="file:///F:/Illustrations/Colored-1/mga%20lugar/ospital.png" height="350px"/> </div> 
+     <div class="image"> <img src="file:///F:/Illustrations/Colored-1/mga%20lugar/simbahan.png" height="350px"/> </div> 
+      <div class="image"> <img src="file:///F:/Illustrations/Colored-1/mga%20lugar/tulay.png" height="350px"/> </div> 
+     </div>
+
+<H1>Parte sa Lawas</h1>
+    <div class="container">
+      <div class="image"> <img src="file:///F:/Illustrations/Colored-1/mga%20parte%20sa%20lawas/dalunggan.png" height="350px"/> </div> 
+      <div class="image"> <img src="file:///F:/Illustrations/Colored-1/mga%20parte%20sa%20lawas/dila.png" height="350px"/> </div> 
+     <div class="image"> <img src="file:///F:/Illustrations/Colored-1/mga%20parte%20sa%20lawas/ilong.png" height="350px"/> </div> 
+     <div class="image"> <img src="file:///F:/Illustrations/Colored-1/mga%20parte%20sa%20lawas/kamot.png" height="350px"/> </div> 
+      <div class="image"> <img src="file:///F:/Illustrations/Colored-1/mga%20parte%20sa%20lawas/mata.png" height="350px"/> </div> 
+     </div>
+
+<H1>Mga Pagkaon</h1>
+    <div class="container">
+      <div class="image"> <img src="file:///F:/Illustrations/Colored-1/Mga%20pagkaon/kalabasa.png" height="350px"/> </div> 
+      <div class="image"> <img src="file:///F:/Illustrations/Colored-1/Mga%20pagkaon/lugaw.png" height="350px"/> </div> 
+     <div class="image"> <img src="file:///F:/Illustrations/Colored-1/Mga%20pagkaon/mais.png" height="350px"/> </div> 
+     <div class="image"> <img src="file:///F:/Illustrations/Colored-1/Mga%20pagkaon/repolyo.png" height="350px"/> </div> 
+      <div class="image"> <img src="file:///F:/Illustrations/Colored-1/Mga%20pagkaon/talong.png" height="350px"/> </div> 
+     </div>
+
+<H1>Mga Tanom</h1>
+    <div class="container">
+      <div class="image"> <img src="file:///F:/Illustrations/Colored-1/mga%20tanom/buwak.png" height="350px"/> </div> 
+      <div class="image"> <img src="file:///F:/Illustrations/Colored-1/mga%20tanom/dahon.png" height="350px"/> </div> 
+     <div class="image"> <img src="file:///F:/Illustrations/Colored-1/mga%20tanom/kahoy.png" height="350px"/> </div> 
+     <div class="image"> <img src="file:///F:/Illustrations/Colored-1/mga%20tanom/liso.png" height="350px"/> </div> 
+      <div class="image"> <img src="file:///F:/Illustrations/Colored-1/mga%20tanom/sagbot.png" height="350px"/> </div> 
+     </div>
+
+<h2> Illustrated by: Arzylette B. Magsayo-Documentation</h2>
+<h2> Web Creator and Designer : Arzylette B. Magsayo </h2>
+  </body>
+</html>
